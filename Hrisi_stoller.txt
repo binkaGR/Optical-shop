@@ -1,0 +1,34 @@
+Id of product2
+Name of product: Glass_5501
+Type of product: dioptrichni
+Materials of product: plasmasa
+Diopter of product: 1.2
+Thickness of product: 1
+Price of product: 150
+
+Count of product: 1
+
+Id of product1
+Name of product: Glass2000
+Type of product: ochila
+Materials of product: stuklo
+Diopter of product: -2
+Thickness of product: 0.5
+Price of product: 125.46
+
+Count of product: 2
+
+Id of product3
+Name of product: Glass89855
+Type of product: ochila
+Materials of product: Gherman
+Diopter of product: 2.45
+Thickness of product: 0.1
+Price of product: 50.5
+
+Count of product: 2
+
+The entire amount for the order is : 501.92
+**************************************
+Id of order is:  690
+***************************************

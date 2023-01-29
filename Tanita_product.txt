@@ -1,0 +1,16 @@
+1
+Glass2000
+ochila
+stuklo
+-2
+0.5
+125.46
+
+4
+Ochila
+Slucezashtitni
+PVC
+0
+0.25
+125
+
